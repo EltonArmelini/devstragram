@@ -29,8 +29,8 @@ Este proyecto es un clon básico de Instagram construido con Laravel 11. Permite
 Clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/usuario/nombre-del-repositorio.git
-cd nombre-del-repositorio
+git clone https://github.com/EltonArmelini/devstragram.git
+cd devstagram
 ```
 ### 2. Configuración del entorno
 Copia el archivo .env.example a .env y configura las variables de entorno: 
